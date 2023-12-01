@@ -259,7 +259,7 @@ public class mainWindow extends JFrame {
 				"First name     : " + txt_user_Fname.getText() +
 				"\nMidlle name  : " + txt_user_Mname.getText() +
 				"\nLast name     : " + txt_user_Lname.getText() +
-				"\nLast name     : " + txt_user_contactNum.getText() +
+				"\nContact         : " + txt_user_contactNum.getText() +
 				"\nCourse          : " + choice_course.getSelectedItem() + 
 				"\nGender         : " + gender
 		);
